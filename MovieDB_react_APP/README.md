@@ -19,7 +19,7 @@ Used TOOLS:
 If you would like to download the code and try it for yourself:
 
 1. Clone the repo: `https://github.com/IsmayilOfficial/MovieDB_react_APP`
-2. `MovieDB_react_APP`
+2. `cd MovieDB_react_APP`
 2. Install packages: `npm install` and `bower install`
 3. Build project and launch: `gulp watch`
 4. Open your browser at: `http://localhost:9000`
